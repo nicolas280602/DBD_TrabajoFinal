@@ -1,0 +1,89 @@
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    description: 'Documento que describe un producto',
+    required: [
+      'Nombre',
+      'Tipo',
+      'Marca',
+      'Precio',
+      'Existencias',
+      'Farmacia'
+    ],
+    properties: {
+      Nombre: {
+        bsonType: 'string',
+        description: 'Nombre del producto'
+      },
+      tipo: {
+        bsonType: 'string',
+        description: 'Tipo de producto: Generico o de Marca'
+      },
+      Marca: {
+        bsonType: 'string',
+        description: 'La marca a la que pertenece el producto'
+      },
+      Precio: {
+        bsonType: 'double',
+        description: 'Precio del producto'
+      },
+      Existencias: {
+        bsonType: 'int',
+        description: 'Cantidad de Stock'
+      },
+      Farmacia: {
+        bsonType: 'object',
+        description: 'Conjunto de farmacias registradas para ese producto',
+        required: [
+          'Nombre',
+          'Telefono',
+          'SitioWeb',
+          'Direcciones'
+        ],
+        properties: {
+          Nombre: {
+            bsonType: 'string',
+            description: 'Nombre de la farmacia'
+          },
+          Telefono: {
+            bsonType: 'int',
+            description: 'Numero de telefono de la farmacia'
+          },
+          SitioWeb: {
+            bsonType: 'string',
+            description: 'url de la pagina web'
+          },
+          Direcciones: {
+            bsonType: [
+              'array'
+            ],
+            description: 'Descripcion de la direccion',
+            items: {
+              bsonType: 'object',
+              description: 'Documento que contiene informacion detallada de las direcciones',
+              required: [
+                'Region',
+                'Distrito',
+                'Direccion'
+              ],
+              properties: {
+                Region: {
+                  bsonType: 'string',
+                  description: 'Region en la que se encuentra la farmacia'
+                },
+                Distrito: {
+                  bsonType: 'string',
+                  description: 'Distrito en el que se encuentra la farmacia'
+                },
+                Direccion: {
+                  bsonType: 'string',
+                  description: 'Direccion exacta de la farmacia'
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
