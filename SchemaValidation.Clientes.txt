@@ -1,0 +1,100 @@
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    description: 'Documento que describe a un cliente',
+    required: [
+      'Contrasenia',
+      'Correo',
+      'Direcciones',
+      'NombreCompleto',
+      'Tarjetas',
+      'Telefono'
+    ],
+    properties: {
+      Contrasenia: {
+        bsonType: 'string',
+        description: 'Contraseña de la cuenta del cliente'
+      },
+      Correo: {
+        bsonType: 'string',
+        description: 'Correo de la cuenta del cliente'
+      },
+      Direcciones: {
+        bsonType: [
+          'array',
+          'null'
+        ],
+        description: 'Conjunto de direcciones registradas por el cliente',
+        items: {
+          bsonType: 'object',
+          description: 'Documento que contiene el detalle de la dirección',
+          required: [
+            'Region',
+            'Distrito',
+            'Direccion'
+          ],
+          properties: {
+            Region: {
+              bsonType: 'string',
+              description: 'Región de la dirección'
+            },
+            Distrito: {
+              bsonType: 'string',
+              description: 'Distrito de la dirección'
+            },
+            Direccion: {
+              bsonType: 'string',
+              description: 'Detalle de la dirección'
+            }
+          }
+        }
+      },
+      NombreCompleto: {
+        bsonType: 'string',
+        description: 'Nombre completo del cliente'
+      },
+      Tarjetas: {
+        bsonType: [
+          'array',
+          'null'
+        ],
+        description: 'Conjunto de tarjetas registradas por el cliente',
+        items: {
+          bsonType: 'object',
+          description: 'Documento que contiene la información de la tarjeta',
+          required: [
+            'NumeroTarjeta',
+            'CVV',
+            'Tipo',
+            'FechaVencimiento'
+          ],
+          properties: {
+            NumeroTarjeta: {
+              bsonType: 'long',
+              description: 'Número de la tarjeta'
+            },
+            CVV: {
+              bsonType: 'int',
+              description: 'Código CVV de la tarjeta'
+            },
+            Tipo: {
+              'enum': [
+                'Credito',
+                'Debito'
+              ],
+              description: 'Tipo de tarjeta'
+            },
+            FechaVencimiento: {
+              bsonType: 'string',
+              description: 'Fecha de vencimiento de la tarjeta'
+            }
+          }
+        }
+      },
+      Telefono: {
+        bsonType: 'int',
+        description: 'Teléfono del cliente'
+      }
+    }
+  }
+}
