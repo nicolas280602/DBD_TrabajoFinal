@@ -272,7 +272,7 @@ SET QUOTED_IDENTIFIER ON
 GO
 CREATE TABLE [dbo].[RegistrosTarjetas](
 	[IdMetodosPago] [int] NOT NULL,
-	[NumeroTarjeta] [int] NOT NULL,
+	[NumeroTarjeta] [bigint] NOT NULL,
 	[CVV] [int] NOT NULL,
 	[Tipo] [varchar](10) NOT NULL,
 	[Fecha] [datetime] NOT NULL,
