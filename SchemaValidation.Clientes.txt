@@ -78,10 +78,7 @@
               description: 'Código CVV de la tarjeta'
             },
             Tipo: {
-              'enum': [
-                'Credito',
-                'Debito'
-              ],
+              bsonType: 'string',
               description: 'Tipo de tarjeta'
             },
             FechaVencimiento: {
