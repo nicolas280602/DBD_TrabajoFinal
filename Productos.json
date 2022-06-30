@@ -1,0 +1,631 @@
+[{
+  "_id": {
+    "$oid": "62bceeda99903554bde33bae"
+  },
+  "Nombre": "NCS HealthCare of KY, Inc dba Vangard Labs",
+  "Tipo": "Cross-platform",
+  "Marca": "Amitriptyline Hydrochloride",
+  "Precio": 128.09,
+  "Existencias": 134,
+  "Farmacia": {
+    "Nombre": "Supervalu Inc",
+    "Telefono": 68363602,
+    "SitioWeb": "nymag.com",
+    "Direcciones": [
+      {
+        "Region": "Trollhättan",
+        "Distrito": "Moose",
+        "Direccion": "51 Elmside Pass"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcef4399903554bde33baf"
+  },
+  "Nombre": "Advanced Generic Corporation",
+  "Tipo": "workforce",
+  "Marca": "Bionel",
+  "Precio": 116.84,
+  "Existencias": 336,
+  "Farmacia": {
+    "Nombre": "CLINIQUE LABORATORIES INC",
+    "Telefono": 90110451,
+    "SitioWeb": "skyrock.com",
+    "Direcciones": [
+      {
+        "Region": "Špišić-Bukovica",
+        "Distrito": "Veith",
+        "Direccion": "9 Melrose Circle"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcef5199903554bde33bb0"
+  },
+  "Nombre": "Accord Healthcare Inc.",
+  "Tipo": "5th generation",
+  "Marca": "Escitalopram",
+  "Precio": 35.52,
+  "Existencias": 292,
+  "Farmacia": {
+    "Nombre": "Newton Laboratories, Inc.",
+    "Telefono": 51331360,
+    "SitioWeb": "about.com",
+    "Direcciones": [
+      {
+        "Region": "Przeworsk",
+        "Distrito": "Buhler",
+        "Direccion": "1 Pleasure Park"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcef6399903554bde33bb1"
+  },
+  "Nombre": "JAFRA COSMETICS INTERNATIONAL",
+  "Tipo": "Operative",
+  "Marca": "Oil Control",
+  "Precio": 29.78,
+  "Existencias": 252,
+  "Farmacia": {
+    "Nombre": "A-S Medication Solutions LLC",
+    "Telefono": 95672552,
+    "SitioWeb": "washingtonpost.com",
+    "Direcciones": [
+      {
+        "Region": "Ar Ramāḑīn",
+        "Distrito": "Weeping Birch",
+        "Direccion": "1 Annamark Alley"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcef7399903554bde33bb2"
+  },
+  "Nombre": "Select Brand",
+  "Tipo": "asymmetric",
+  "Marca": "Tussin CF",
+  "Precio": 35.06,
+  "Existencias": 137,
+  "Farmacia": {
+    "Nombre": "Cardinal Health",
+    "Telefono": 24041312,
+    "SitioWeb": "wufoo.com",
+    "Direcciones": [
+      {
+        "Region": "Kapshagay",
+        "Distrito": "Holmberg",
+        "Direccion": "3222 Pond Way"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcef8a99903554bde33bb3"
+  },
+  "Nombre": "Major Pharmaceuticals",
+  "Tipo": "Monitored",
+  "Marca": "metformin hydrochloride",
+  "Precio": 297.41,
+  "Existencias": 121,
+  "Farmacia": {
+    "Nombre": "Merck Sharp & Dohme Corp.",
+    "Telefono": 79545002,
+    "SitioWeb": "slashdot.org",
+    "Direcciones": [
+      {
+        "Region": "Jerusalem",
+        "Distrito": "Mcguire",
+        "Direccion": "0643 Quincy Way"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcef9699903554bde33bb4"
+  },
+  "Nombre": "Baxter Healthcare Corporation",
+  "Tipo": "Automated",
+  "Marca": "Dextrose",
+  "Precio": 195.65,
+  "Existencias": 142,
+  "Farmacia": {
+    "Nombre": "Cardinal Health",
+    "Telefono": 62379538,
+    "SitioWeb": "parallels.com",
+    "Direcciones": [
+      {
+        "Region": "Huai Yot",
+        "Distrito": "Union",
+        "Direccion": "32 Mariners Cove Court"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcefa999903554bde33bb5"
+  },
+  "Nombre": "UCB, Inc.",
+  "Tipo": "Cross-group",
+  "Marca": "Theo-24",
+  "Precio": 153.68,
+  "Existencias": 236,
+  "Farmacia": {
+    "Nombre": "Aurobindo Pharma Limited",
+    "Telefono": 53650374,
+    "SitioWeb": "quantcast.com",
+    "Direcciones": [
+      {
+        "Region": "Tuopu",
+        "Distrito": "Lien",
+        "Direccion": "7 Northfield Drive"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcefbf99903554bde33bb6"
+  },
+  "Nombre": "Rebel Distributors Corp",
+  "Tipo": "Open-architected",
+  "Marca": "Methylprednisolone Acetate",
+  "Precio": 208.98,
+  "Existencias": 257,
+  "Farmacia": {
+    "Nombre": "Shopko Stores Operating Co., LLC",
+    "Telefono": 29667097,
+    "SitioWeb": "51.la",
+    "Direcciones": [
+      {
+        "Region": "Potolo",
+        "Distrito": "Mallory",
+        "Direccion": "535 Montana Point"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcefd499903554bde33bb7"
+  },
+  "Nombre": "Actavis Elizabeth LLC",
+  "Tipo": "structure",
+  "Marca": "Alprazolam",
+  "Precio": 20.28,
+  "Existencias": 275,
+  "Farmacia": {
+    "Nombre": "Safeway",
+    "Telefono": 88466645,
+    "SitioWeb": "ca.gov",
+    "Direcciones": [
+      {
+        "Region": "Villa Francisca",
+        "Distrito": "Stuart",
+        "Direccion": "589 Lukken Drive"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcefe199903554bde33bb8"
+  },
+  "Nombre": "Health Science Funding, LLC",
+  "Tipo": "clear-thinking",
+  "Marca": "Prastera",
+  "Precio": 43.36,
+  "Existencias": 192,
+  "Farmacia": {
+    "Nombre": "ESTEE LAUDER INC",
+    "Telefono": 50358960,
+    "SitioWeb": "soundcloud.com",
+    "Direcciones": [
+      {
+        "Region": "Verkhniy Dashkesan",
+        "Distrito": "Hoepker",
+        "Direccion": "11 Warrior Junction"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bceff199903554bde33bb9"
+  },
+  "Nombre": "Bayer HealthCare Pharmaceuticals Inc.",
+  "Tipo": "real-time",
+  "Marca": "Gadavist",
+  "Precio": 92.76,
+  "Existencias": 171,
+  "Farmacia": {
+    "Nombre": "Northwind Pharmaceuticals, LLC",
+    "Telefono": 48363961,
+    "SitioWeb": "usatoday.com",
+    "Direcciones": [
+      {
+        "Region": "Paris 13",
+        "Distrito": "Manitowish",
+        "Direccion": "10945 Anniversary Pass"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bceffd99903554bde33bba"
+  },
+  "Nombre": "Watson Laboratories, Inc.",
+  "Tipo": "attitude-oriented",
+  "Marca": "Allopurinol",
+  "Precio": 15.73,
+  "Existencias": 215,
+  "Farmacia": {
+    "Nombre": "Rebel Distributors Corp",
+    "Telefono": 95545147,
+    "SitioWeb": "mozilla.org",
+    "Direcciones": [
+      {
+        "Region": "Zhigulevsk",
+        "Distrito": "Golf Course",
+        "Direccion": "4414 Loftsgordon Drive"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf00a99903554bde33bbb"
+  },
+  "Nombre": "Lannett Company, Inc.",
+  "Tipo": "project",
+  "Marca": "Cocaine Hydrochloride",
+  "Precio": 139.37,
+  "Existencias": 184,
+  "Farmacia": {
+    "Nombre": "LG Household and Healthcare, Inc.",
+    "Telefono": 63621038,
+    "SitioWeb": "zimbio.com",
+    "Direcciones": [
+      {
+        "Region": "Ribafria",
+        "Distrito": "Forster",
+        "Direccion": "80360 Helena Parkway"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf01b99903554bde33bbc"
+  },
+  "Nombre": "Cardinal Health",
+  "Tipo": "moderator",
+  "Marca": "Niaspan",
+  "Precio": 137.83,
+  "Existencias": 121,
+  "Farmacia": {
+    "Nombre": "SHISEIDO AMERICA INC.",
+    "Telefono": 10184882,
+    "SitioWeb": "buzzfeed.com",
+    "Direcciones": [
+      {
+        "Region": "Skillingaryd",
+        "Distrito": "Kingsford",
+        "Direccion": "896 Logan Junction"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf03199903554bde33bbd"
+  },
+  "Nombre": "Uriel Pharmacy Inc.",
+  "Tipo": "asynchronous",
+  "Marca": "Crataegus Onopordon",
+  "Precio": 19.71,
+  "Existencias": 220,
+  "Farmacia": {
+    "Nombre": "Family Dollar Services Inc.",
+    "Telefono": 69162015,
+    "SitioWeb": "macromedia.com",
+    "Direcciones": [
+      {
+        "Region": "Sicamous",
+        "Distrito": "Sutteridge",
+        "Direccion": "95 Forest Avenue"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf05299903554bde33bbe"
+  },
+  "Nombre": "Rebel Distributors Corp",
+  "Tipo": "Face to face",
+  "Marca": "Childrens Silapap",
+  "Precio": 188.98,
+  "Existencias": 218,
+  "Farmacia": {
+    "Nombre": "Target Corporation",
+    "Telefono": 18612935,
+    "SitioWeb": "phpbb.com",
+    "Direcciones": [
+      {
+        "Region": "New Cebu",
+        "Distrito": "Monument",
+        "Direccion": "1 Dryden Center"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf05e99903554bde33bbf"
+  },
+  "Nombre": "HealthLink",
+  "Tipo": "background",
+  "Marca": "ALOEGUARD ANTIMICROBIAL",
+  "Precio": 117.27,
+  "Existencias": 147,
+  "Farmacia": {
+    "Nombre": "Unipack, Inc.",
+    "Telefono": 79184231,
+    "SitioWeb": "yahoo.com",
+    "Direcciones": [
+      {
+        "Region": "Daba",
+        "Distrito": "Debra",
+        "Direccion": "37 Sage Pass"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf06f99903554bde33bc0"
+  },
+  "Nombre": "Cadila Healthcare Limited",
+  "Tipo": "synergy",
+  "Marca": "Dipyridamole",
+  "Precio": 226.12,
+  "Existencias": 257,
+  "Farmacia": {
+    "Nombre": "Altura Pharmaceuticals, Inc.",
+    "Telefono": 23842662,
+    "SitioWeb": "wikispaces.com",
+    "Direcciones": [
+      {
+        "Region": "Shewopo",
+        "Distrito": "Cody",
+        "Direccion": "34 Sage Circle"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf07b99903554bde33bc1"
+  },
+  "Nombre": "Sun Pharma Global FZE",
+  "Tipo": "Optional",
+  "Marca": "Galantamine Hydrobromide",
+  "Precio": 31.21,
+  "Existencias": 111,
+  "Farmacia": {
+    "Nombre": "Physicians Total Care, Inc.",
+    "Telefono": 50990688,
+    "SitioWeb": "go.com",
+    "Direcciones": [
+      {
+        "Region": "Chikan",
+        "Distrito": "Little Fleur",
+        "Direccion": "878 Steensland Junction"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf08a99903554bde33bc2"
+  },
+  "Nombre": "Home Sweet Homeopathics",
+  "Tipo": "modular",
+  "Marca": "Fever and Flu",
+  "Precio": 105.39,
+  "Existencias": 305,
+  "Farmacia": {
+    "Nombre": "Solco healthcare U.S., LLC",
+    "Telefono": 94758042,
+    "SitioWeb": "opensource.org",
+    "Direcciones": [
+      {
+        "Region": "Nuevo Emperador",
+        "Distrito": "Morrow",
+        "Direccion": "38037 Magdeline Court"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf0a499903554bde33bc3"
+  },
+  "Nombre": "Bracco Diagnostics Inc",
+  "Tipo": "info-mediaries",
+  "Marca": "Isovue-M",
+  "Precio": 221.62,
+  "Existencias": 290,
+  "Farmacia": {
+    "Nombre": "Novartis Pharmaceuticals Corporation",
+    "Telefono": 72841589,
+    "SitioWeb": "columbia.edu",
+    "Direcciones": [
+      {
+        "Region": "Shangma",
+        "Distrito": "Prairieview",
+        "Direccion": "02 Fieldstone Point"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf0b399903554bde33bc4"
+  },
+  "Nombre": "Cardinal Health",
+  "Tipo": "Assimilated",
+  "Marca": "Furosemide",
+  "Precio": 172.27,
+  "Existencias": 310,
+  "Farmacia": {
+    "Nombre": "Reckitt Benckiser LLC",
+    "Telefono": 98644745,
+    "SitioWeb": "gmpg.org",
+    "Direcciones": [
+      {
+        "Region": "Bečej",
+        "Distrito": "Randy",
+        "Direccion": "931 Caliangt Center"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf0d599903554bde33bc6"
+  },
+  "Nombre": "CSL Behring LLC",
+  "Tipo": "access",
+  "Marca": "Helixate FS",
+  "Precio": 29.33,
+  "Existencias": 239,
+  "Farmacia": {
+    "Nombre": "RedPharm Drug Inc.",
+    "Telefono": 38348398,
+    "SitioWeb": "ucoz.ru",
+    "Direcciones": [
+      {
+        "Region": "Changgang",
+        "Distrito": "Anniversary",
+        "Direccion": "49 Iowa Point"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf0f599903554bde33bc7"
+  },
+  "Nombre": "Ranbaxy Pharmaceuticals Inc.",
+  "Tipo": "Future-proofed",
+  "Marca": "Simvastatin",
+  "Precio": 259.16,
+  "Existencias": 321,
+  "Farmacia": {
+    "Nombre": "Qualitest Pharmaceuticals",
+    "Telefono": 64895337,
+    "SitioWeb": "alexa.com",
+    "Direcciones": [
+      {
+        "Region": "Siepraw",
+        "Distrito": "Grasskamp",
+        "Direccion": "9 Continental Street"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf10299903554bde33bc8"
+  },
+  "Nombre": "Physicians Total Care, Inc.",
+  "Tipo": "complexity",
+  "Marca": "Carbidopa and Levodopa",
+  "Precio": 154.49,
+  "Existencias": 160,
+  "Farmacia": {
+    "Nombre": "Nibec Co., Ltd",
+    "Telefono": 29699351,
+    "SitioWeb": "t-online.de",
+    "Direcciones": [
+      {
+        "Region": "Barrouallie",
+        "Distrito": "North",
+        "Direccion": "02915 Gina Lane"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf10e99903554bde33bc9"
+  },
+  "Nombre": "Jubilant HollisterStier LLC",
+  "Tipo": "well-modulated",
+  "Marca": "Food - Plant Source, String Bean Mix",
+  "Precio": 119.07,
+  "Existencias": 319,
+  "Farmacia": {
+    "Nombre": "Prasco Laboratories",
+    "Telefono": 48210841,
+    "SitioWeb": "mlb.com",
+    "Direcciones": [
+      {
+        "Region": "Songping",
+        "Distrito": "7th",
+        "Direccion": "443 Old Shore Parkway"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf11999903554bde33bca"
+  },
+  "Nombre": "HyVee Inc",
+  "Tipo": "Devolved",
+  "Marca": "hemorrhoidal",
+  "Precio": 30.94,
+  "Existencias": 157,
+  "Farmacia": {
+    "Nombre": "Pharmacia and Upjohn Company",
+    "Telefono": 94681880,
+    "SitioWeb": "so-net.ne.jp",
+    "Direcciones": [
+      {
+        "Region": "Gorna Oryakhovitsa",
+        "Distrito": "Menomonie",
+        "Direccion": "660 Sundown Park"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf12699903554bde33bcb"
+  },
+  "Nombre": "PD-Rx Pharmaceuticals, Inc.",
+  "Tipo": "mobile",
+  "Marca": "Triamterene hydrochlorothiazide",
+  "Precio": 165.26,
+  "Existencias": 149,
+  "Farmacia": {
+    "Nombre": "Major Pharmaceuticals",
+    "Telefono": 78020528,
+    "SitioWeb": "surveymonkey.com",
+    "Direcciones": [
+      {
+        "Region": "Hilotongan",
+        "Distrito": "Menomonie",
+        "Direccion": "442 Amoth Plaza"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "62bcf13399903554bde33bcc"
+  },
+  "Nombre": "Rebel Distributors Corp",
+  "Tipo": "dynamic",
+  "Marca": "Glyburide",
+  "Precio": 48.23,
+  "Existencias": 142,
+  "Farmacia": {
+    "Nombre": "Parfums Givenchy S.A.",
+    "Telefono": 78349317,
+    "SitioWeb": "adobe.com",
+    "Direcciones": [
+      {
+        "Region": "Capela",
+        "Distrito": "Ramsey",
+        "Direccion": "6089 Wayridge Circle"
+      }
+    ]
+  }
+}]
